@@ -6,7 +6,7 @@
 <b>School:</b> Pathumwilai School <br>
 <b>Skill:</b> HTML , CSS , Graphic Design ,Video Editing <br>
 <b>Dreamjob:</b>'Web Developer' <br>
-##*Everyone is a developer* :+1:
+## *Everyone is a developer* :+1:
 
 <!---
 kevzen96/kevzen96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
