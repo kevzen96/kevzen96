@@ -7,6 +7,7 @@
 <b>skill:</b> HTML , CSS , Graphic Design ,Video Editing <br>
 <b>dreamjob:</b>'Web Developer' <br>
 *Everyone is a developer*
+*This text will be italic*
 <!---
 kevzen96/kevzen96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
