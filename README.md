@@ -3,8 +3,7 @@
 <b>Name:</b> Natcha Nernkrang <br>
 <b>Nickname:</b> Nam <br>
 <b>Age:</b> 18 <br>
-<b>School:</b> Pathumwilai School <br>
-<b>Skill:</b> HTML , CSS , Graphic Design ,Video Editing <br>
+<b>Skill:</b> Python, HTML , CSS , Graphic Design ,Video Editing <br>
 <b>Dreamjob:</b>'Web Developer' <br>
 ### *Everyone is a developer* :+1:
 
