@@ -1,10 +1,4 @@
-# Hi! I'm Natcha
-
-<b>Name:</b> Natcha Nernkrang <br>
-<b>Nickname:</b> Nam <br>
-<b>Age:</b> 18 <br>
-<b>Skill:</b> Python, HTML , CSS , Graphic Design ,Video Editing <br>
-<b>Dreamjob:</b>'Web Developer' <br>
+# Hi!
 ### *Everyone is a developer* :+1:
 
 <!---
